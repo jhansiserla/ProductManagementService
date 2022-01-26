@@ -1,0 +1,14 @@
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\bin\Debug\netcoreapp2.2\ProductManagementService.deps.json
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\bin\Debug\netcoreapp2.2\ProductManagementService.runtimeconfig.json
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\bin\Debug\netcoreapp2.2\ProductManagementService.runtimeconfig.dev.json
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\bin\Debug\netcoreapp2.2\ProductManagementService.dll
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\bin\Debug\netcoreapp2.2\ProductManagementService.pdb
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.csprojAssemblyReference.cache
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.csproj.CoreCompileInputs.cache
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.RazorAssemblyInfo.cache
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.RazorAssemblyInfo.cs
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.AssemblyInfoInputs.cache
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.AssemblyInfo.cs
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.RazorTargetAssemblyInfo.cache
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.dll
+C:\Users\jeevan\source\repos\ProductManagementService\ProductManagementService\obj\Debug\netcoreapp2.2\ProductManagementService.pdb
