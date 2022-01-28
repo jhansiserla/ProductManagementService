@@ -11,5 +11,10 @@
    2. Once above command runs successfully type another Command 'Update-Database'
    3. After executing above command, Products table and database OnlineMarketing will be created automatically in SQL server
 7. Then we can cheeck for sample tests in tests.postman
-
+8. Also while posting the data in postman,in Body, please select raw option and type data in below format
+   {
+    "name" : "jenisha",
+    "price" : 5.67
+   }
+  Here type of request data would be JSON
  
